@@ -26,7 +26,7 @@ tres meses.
 - Reconocer palabras escritas a mano (OCR).
 - Detectar llamados de ballenas en grabaciones de boyas. 
 - Estimar el ingreso mensual de un hogar a partir de las características
-de la vivienda, posesiones y equipamiento y localización geográfica.
+de la vivienda, posesiones y equipamiento y localización geográfica
 - Dividir a los clientes de Netflix según sus gustos.
 - Recomendar artículos a clientes de un programa de lealtad o servicio online.
 
